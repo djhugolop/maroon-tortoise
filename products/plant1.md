@@ -18,7 +18,7 @@ images:
       fallback: "/images/TRADER LIFE.png"
     original:
       optimized: "/images/TRADER LIFE.webp"
-      fallback: "/images/promo.jpg"
+      fallback: "/images/TRADER LIFE.png"
 category: bigplants
 featured: true
 section: Store
