@@ -17,8 +17,8 @@ images:
       optimized: "/images/promo.webp"
       fallback: "/images/promo.jpg"
     original:
-      optimized: "/images/plant1-featured-lg.webp"
-      fallback: "/images/plant1-featured-lg.jpg"
+      optimized: "/images/promo.webp"
+      fallback: "/images/promo.jpg"
 category: bigplants
 featured: true
 section: Store
