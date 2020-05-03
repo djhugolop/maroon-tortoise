@@ -10,7 +10,7 @@ images:
       optimized: "/images/plant1.webp"
       fallback: "/images/plant1.jpg"
     original:
-      optimized: "/images/plant1-lg.webp"
+      optimized: "/images/plant1.webp"
       fallback: "/images/plant1-lg.jpg"
   featured:
     thumbnail:
