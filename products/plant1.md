@@ -10,7 +10,7 @@ images:
       optimized: "/images/TRADER LIFE.png"
       fallback: "/images/TRADER LIFE.png"
     original:
-      optimized: "/images/TRADER LIFE.webp"
+      optimized: "/images/TRADER LIFE.png"
       fallback: "/images/TRADER LIFE.png"
   featured:
     thumbnail:
