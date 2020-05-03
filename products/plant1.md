@@ -7,11 +7,11 @@ price: '49.40'
 images:
   default:
     thumbnail:
-      optimized: "/images/plant1.webp"
-      fallback: "/images/plant1.jpg"
+      optimized: "/images/TRADER LIFE.webp"
+      fallback: "/images/TRADER LIFE.png"
     original:
-      optimized: "/images/plant1.webp"
-      fallback: "/images/plant1-lg.jpg"
+      optimized: "/images/TRADER LIFE.webp"
+      fallback: "/images/TRADER LIFE.png"
   featured:
     thumbnail:
       optimized: "/images/promo.webp"
