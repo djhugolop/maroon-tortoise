@@ -1,9 +1,10 @@
 ---
 id: "1"
-title: Nulla suscipit
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit
-  velit lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget tincidunt.
-price: '49.40'
+title: Trader life
+description: "¿No sabes nada del mercado y quieres saber cómo hacer ingresos consistentes?
+  Nuestros programas de acompañamiento te permiten de aprender todo lo que necesitas
+  saber."
+price: '249.40'
 images:
   default:
     thumbnail:
@@ -25,6 +26,12 @@ section: Store
 layout: product
 
 ---
-# Nulla suscipit
+# Trader life
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
+Al igual que con cualquier empresa rentable, el tiempo y el esfuerzo son necesarios para sentar las bases para el éxito; no existe una fórmula mágica. No se deje intimidar, el day trading no es tan abrumador como parece. Entrenamos estudiantes de todos los orígenes, para el éxito y nuestros in-house traders e esfuerzan para apoyar y desarrollar sus habilidades de negociación.
+
+Aprender a hacer day trading es una decisión que muchas personas toman para vivir el sueño de tener libertad completa en términos de tiempo, dinero y lugar.
+
+Nuestro lema es “Vamos a crear su estilo de vida”. En los últimos años, hemos ayudado a cientos de nuestros estudiantes y miembros, a convertirse en traders consistentemente rentables; la consecución de sus objetivos y la creación de sus estilos de vida.
+
+Cuando tu haces day trading, no dependes de nadie, excepto de sí mismo. Para algunos, es la libertad de pasar tiempo con su familia; para los demás, es no tener un jefe a quien informar, o trabajar 12 horas al día haciendo algo que no disfrutan. El trading no sólo ofrece un trabajo flexible, sino un estilo de vida flexible.
