@@ -7,7 +7,7 @@ price: '49.40'
 images:
   default:
     thumbnail:
-      optimized: "/images/TRADER LIFE.webp"
+      optimized: "/images/TRADER LIFE.png"
       fallback: "/images/TRADER LIFE.png"
     original:
       optimized: "/images/TRADER LIFE.webp"
