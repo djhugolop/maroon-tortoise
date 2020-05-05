@@ -1,29 +1,31 @@
 ---
-id: '7'
-title: Sed consectetur
-description: Fusce sed tortor id diam rhoncus accumsan.
-price: '18.90'
+id: "7"
+title: Binary Option
+description: Las opciones binarias es un contrato en el que el trader selecciona su
+  predicción sobre el precio futuro de un activo, con este curso aprenderás a leer
+  gráficos y estrategias efectivas para obtener mejores resultados. .
+price: '189.90'
 images:
   default:
     thumbnail:
-      optimized: /images/plant7.webp
-      fallback: /images/plant7.jpg
+      optimized: "/images/BINARYOPTION.webp"
+      fallback: "/images/BINARYOPTION.png"
     original:
-      optimized: /images/plant7-lg.webp
-      fallback: /images/plant7-lg.jpg
+      optimized: "/images/plant7-lg.webp"
+      fallback: "/images/plant7-lg.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant7-featured.webp
-      fallback: /images/plant7-featured.jpg
+      optimized: "/images/plant7-featured.webp"
+      fallback: "/images/plant7-featured.jpg"
     original:
-      optimized: /images/plant7-featured-lg.webp
-      fallback: /images/plant7-featured-lg.jpg
+      optimized: "/images/plant7-featured-lg.webp"
+      fallback: "/images/plant7-featured-lg.jpg"
 category: bigplants
 featured: false
 section: Store
 layout: product
+
 ---
+# Opciones Binarias
 
-# Sed consectetur
-
-Sed consectetur eleifend neque. Morbi fringilla velit neque, quis aliquet diam rutrum eget. Praesent dui leo, iaculis non auctor sed, accumsan at felis. Suspendisse eu pretium justo. Curabitur et velit quis justo elementum iaculis. Fusce sed tortor id diam rhoncus accumsan. In cursus sagittis eros non congue.
+Las opciones binarias es un contrato en el que el trader selecciona su **predicción sobre el precio futuro** de un determinado instrumento en un determinado mercado al que se llama **activo subyacente**. Esta predicción puede ser **igual, mayor o menor** a un precio elegido por el trader, conocido como **precio de ejercicio** o precio strike. Junto a la predicción, el trader elige un horizonte temporal, un plazo para su predicción. Cumplido este plazo, no antes ni después, se verá si la predicción que hizo el trader es correcta o no. **En caso de que el trader haya acertado ganará y en caso contrario perderá**.
