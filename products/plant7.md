@@ -3,7 +3,7 @@ id: "7"
 title: Binary Option
 description: Las opciones binarias es un contrato en el que el trader selecciona su
   predicción sobre el precio futuro de un activo, con este curso aprenderás a leer
-  gráficos y estrategias efectivas para obtener mejores resultados. .
+  gráficos y estrategias efectivas para obtener mejores resultados.
 price: '189.90'
 images:
   default:
