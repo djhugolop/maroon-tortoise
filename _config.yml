@@ -7,11 +7,11 @@ snipcart_css: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css
 snipcart_api_key: ZmRmNGE0MGQtMzk4OS00ODM5LWI1ZTktYjMyMzkyMGNmOWVkNjM3MjM5MDAzNDI4MzAwMzc2
 logos:
   light:
-    optimized: images/logo-white.svg
-    fallback: images/logo-white.svg
+    optimized: images/logo-white.png
+    fallback: images/logo-white.png
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: images/logo.png
+    fallback: images/logo.png
 palette: default
 palettes:
   default:
