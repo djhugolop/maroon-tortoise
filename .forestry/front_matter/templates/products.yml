@@ -75,7 +75,7 @@ fields:
     options:
     - summer
     - europe
-    - bigplants
+    - trading
     - cactuses
     - dropshipping
 - type: boolean
