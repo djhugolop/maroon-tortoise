@@ -73,7 +73,7 @@ fields:
     source:
       type: custom
     options:
-    - summer
+    - Ebooks
     - europe
     - trading
     - cactuses
