@@ -20,7 +20,7 @@ images:
     original:
       optimized: "/images/TRADER LIFE.webp"
       fallback: "/images/TRADER LIFE.png"
-category: bigplants
+category: trading
 featured: true
 section: Store
 layout: product
