@@ -1,9 +1,10 @@
 ---
-slug: bigplants
-title: Big plants
+slug: trading
+title: Trading
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 7
-layout: category
+
 ---
