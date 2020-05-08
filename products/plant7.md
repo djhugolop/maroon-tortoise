@@ -21,7 +21,7 @@ images:
       optimized: "/images/plant7-featured-lg.webp"
       fallback: "/images/plant7-featured-lg.jpg"
 category: trading
-featured: false
+featured: true
 section: Store
 layout: product
 
