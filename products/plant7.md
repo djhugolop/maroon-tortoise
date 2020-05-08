@@ -15,8 +15,8 @@ images:
       fallback: "/images/BINARYOPTION.png"
   featured:
     thumbnail:
-      optimized: "/images/plant7-featured.webp"
-      fallback: "/images/plant7-featured.jpg"
+      optimized: "/images/BINARYOPTION.webp"
+      fallback: "/images/BINARYOPTION.png"
     original:
       optimized: "/images/plant7-featured-lg.webp"
       fallback: "/images/plant7-featured-lg.jpg"
