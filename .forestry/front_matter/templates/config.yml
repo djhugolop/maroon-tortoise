@@ -6,12 +6,12 @@ fields:
   name: baseurl
   label: Base URL
   description: Serve the website from the given base URL
-  hidden: true
+  hidden: false
 - type: text
   name: permalink
   label: Permalink
   description: The output path for your pages, posts, or collections.
-  hidden: true
+  hidden: false
   default: "/posts/:slug:output_ext"
 - type: text
   name: title
@@ -101,9 +101,9 @@ fields:
 - type: list
   name: plugins
   label: Plugins
-  hidden: true
+  hidden: false
 - type: list
   name: exclude
   label: Exclude
   description: Exclude directories and/or files from the conversion.
-  hidden: true
+  hidden: false
