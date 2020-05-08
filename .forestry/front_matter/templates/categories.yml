@@ -18,11 +18,11 @@ fields:
     - Store
     - About
     - Home
-  hidden: true
+  hidden: false
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
   default: category
   config:
     required: false
