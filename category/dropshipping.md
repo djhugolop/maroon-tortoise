@@ -1,6 +1,6 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: dropshipping
+title: Dropshipping
 section: Store
 layout: category
 menu:
