@@ -8,11 +8,11 @@ fields:
 - type: boolean
   name: isHome
   label: Is home page
-  hidden: true
+  hidden: false
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
   default: index
   config:
     required: true
