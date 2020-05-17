@@ -27,7 +27,7 @@ fields:
   config:
     required: false
 pages:
-- category/bigplants.md
 - category/dropshipping.md
 - category/ebooks.md
 - category/europe.md
+- category/trading.md
